@@ -27,6 +27,7 @@ Para este proyeto Utilizamos las Herramientas tales:
    Adoble Espress
 
    Sketch preparado con FIGMA donde se encontra el enlace del archivo:
-   https://www.figma.com/file/2hyZkQmQV0iKcul9yAXYn9/SketchProyetoMyCrew
+   https://www.figma.com/file/2hyZkQmQV0iKcul9yAXYn9/SketchProyetoMyCrew?node-id=0%3A1
+   SketchProyetoMyCrew.pdf
 
    FOTO DO SITE:
